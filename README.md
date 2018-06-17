@@ -158,3 +158,4 @@ Acknowledgements
 - Salvatore Di Dio
 - Vincent Van Asch
 - Frederik Elwert
+- Constance de Quatrebarbes
